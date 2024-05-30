@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="test_prikol">Musuic</string>
+    <string name="start_button">Начать</string>
+    <string name="game_text">Угадайте песню</string>
+
+    <string name="rounds_count">0/0</string>
+    <string name="first_player">Первый игрок</string>
+    <string name="second_player">Второй игрок</string>
+    <string name="first_player_score">-1</string>
+    <string name="second_player_score">-1</string>
+
+    <string name="to_the_end">До конца Держись</string>
+    <string name="funny_balls_otvinta">От винта!</string>
+    <string name="gorillaz_on_melancholy_hill">On Melancholy Hill</string>
+    <string name="ushkuiniks">Ушкуйники</string>
+    <string name="mogno_ya_s_toboy">Можно я с тобой</string>
+    <string name="hero">Hero</string>
+    <string name="valhalla">Valhalla Calling</string>
+    <string name="eminem">8 Mile</string>
+    <string name="helvegen">К Белым Берегам</string>
+    <string name="shadows">Тени</string>
+    <string name="wab">Wait and Bleed</string>
+    <string name="wake_me_up">Wake me up</string>
+    <string name="anacondaz">Дубак</string>
+    <string name="arrows">Стрелы</string>
+    <string name="dani_california">Dani california</string>
+    <string name="astronaut">Astronaut In The Ocean</string>
+    <string name="gimme">A man after midnight</string>
+    <string name="make_this_right">Make this right</string>
+    <string name="step_into_the_dark">Шаг в Темноту</string>
+    <string name="sabaton">Winged Hussars</string>
+    <string name="shit_boat">Shit Boat</string>
+    <string name="echo">Эхо войны</string>
+    <string name="stfu">Shut Your Mouth</string>
+    <string name="get_low">Get low</string>
+    <string name="jorsh">2007</string>
+    <string name="bullet">Пулю Буржую</string>
+</resources>

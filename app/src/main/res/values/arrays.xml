@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="mp3_files">
+        <item>@raw/to_the_end</item>
+        <item>@raw/funny_balls_otvinta</item>
+        <item>@raw/gorillaz_on_melancholy_hill</item>
+        <item>@raw/ushkuiniks</item>
+        <item>@raw/mogno_ya_s_toboy</item>
+        <item>@raw/hero</item>
+        <item>@raw/valhalla</item>
+        <item>@raw/eminem</item>
+        <item>@raw/helvegen</item>
+        <item>@raw/wab</item>
+        <item>@raw/wake_me_up</item>
+        <item>@raw/anacondaz</item>
+        <item>@raw/arrows</item>
+        <item>@raw/dani_california</item>
+        <item>@raw/astronaut</item>
+        <item>@raw/gimme</item>
+        <item>@raw/make_this_right</item>
+        <item>@raw/step_into_the_dark</item>
+        <item>@raw/sabaton</item>
+        <item>@raw/shit_boat</item>
+        <item>@raw/echo</item>
+        <item>@raw/stfu</item>
+        <item>@raw/get_low</item>
+        <item>@raw/jorsh</item>
+        <item>@raw/bullet</item>
+    </array>
+</resources>
